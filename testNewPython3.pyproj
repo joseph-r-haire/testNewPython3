@@ -15,6 +15,7 @@
     <InterpreterId>Global|VisualStudio|Scripts</InterpreterId>
     <StartupFile />
     <InterpreterPath />
+    <InterpreterPath>C:\Users\joseph.Haire\source\repos\testNewPython3\.venv\Scripts\python.exe</InterpreterPath>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
