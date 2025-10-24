@@ -16,6 +16,8 @@
     <StartupFile />
     <InterpreterPath />
     <InterpreterPath>C:\Users\joseph.Haire\source\repos\testNewPython3\.venv\Scripts\python.exe</InterpreterPath>
+    <StartupFile>main.py</StartupFile>
+    <InterpreterPath>C:\Users\joseph.Haire\source\repos\testNewPython3\.venv\Scripts\python.exe</InterpreterPath>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
